@@ -1,0 +1,30 @@
+form {
+    border: 2px solid #05020286;
+    border-radius: 3px;
+    padding: 25px;
+    
+    input {
+        padding: 10px 20px;
+        width: 700px;
+        line-height: 16px;
+        border-radius: 5px;
+        margin: 10px 0;
+        border-color:#000;  
+        display: block;
+        box-sizing: border-box;
+        &::placeholder{
+            font-weight: bold;
+        }
+    }
+    button{
+        color: #000;
+        background-color:#fff ;
+        padding: 10px 30px;
+        border-radius: 5px; 
+        &:hover{
+            background-color: #eee;
+        }       
+    }
+}
+
+

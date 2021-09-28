@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main {
+        background-color:rgba(231, 231, 231, 0.87) ;
+        div{
+            text-align: center;
+            width: 1200px;
+            width: 800px;
+            margin: 0 auto;
+
+            p{
+                padding-top: 30px;
+                margin-bottom: 20px;
+                font-weight: bold;
+                color: black;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+        }
+    
+    
+}
+.lightHouse{
+    padding-top: 10px;
+    background-color:#e7e7e7 ;
+    
+
+    .wrapper{
+        margin: 0 auto;
+        height: 250px;
+        width: 800px;
+        text-align: center;
+    }
+    
+}
+// section {
+//     max-width: 800px;
+//     margin: 50px auto;
+// }
