@@ -13,7 +13,7 @@
 
 
 
-##How To USe
+## How To USe
 Make sure Node and npm are installed from the terminal.
 ```
 node -v
