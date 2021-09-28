@@ -20,12 +20,12 @@ node -v
 npm -v
 ```
 
-###Start the project
+### Start the project
 
 Command
-
+```
 npm run build-prod : Build project
 npm start : Run project
-
+```
 Open browser at http://localhost:8085/
 
