@@ -27,5 +27,5 @@ Command
 npm run build-prod : Build project
 npm start : Run project
 
-8. Open browser at http://localhost:8085/
+Open browser at http://localhost:8085/
 
